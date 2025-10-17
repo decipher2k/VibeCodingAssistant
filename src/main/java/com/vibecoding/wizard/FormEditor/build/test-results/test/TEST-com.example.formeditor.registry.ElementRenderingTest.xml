@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.formeditor.registry.ElementRenderingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-10-12T17:03:51.951Z" hostname="pc" time="0.086">
+  <properties/>
+  <testcase name="labelPropertiesReflectOnNode()" classname="com.example.formeditor.registry.ElementRenderingTest" time="0.086"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Okt. 12, 2025 7:03:51 PM com.sun.javafx.application.PlatformImpl startup
+WARNUNG: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @7770f470'
+]]></system-err>
+</testsuite>

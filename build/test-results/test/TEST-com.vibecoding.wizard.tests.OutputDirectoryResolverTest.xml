@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-10-17T12:24:09.309Z" hostname="pc" time="0.028">
+  <properties/>
+  <testcase name="testGetOutputDirectoryForPython(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.009"/>
+  <testcase name="testGetOutputDirectoryPrefersMostSpecific(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.001"/>
+  <testcase name="testGetOutputDirectoryForCpp(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.001"/>
+  <testcase name="testGetOutputDirectoryDescription()" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.001"/>
+  <testcase name="testGetOutputDirectoryFallsBackToLessSpecific(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.001"/>
+  <testcase name="testGetOutputDirectoryForJava(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.001"/>
+  <testcase name="testGetOutputDirectoryForRust(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.002"/>
+  <testcase name="testGetOutputDirectoryWhenNoOutputDirExists(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.0"/>
+  <testcase name="testGetOutputDirectoryWithNullProjectDirectory()" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.0"/>
+  <testcase name="testGetOutputDirectoryForJavaScript(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.001"/>
+  <testcase name="testGetOutputDirectoryForGo(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.001"/>
+  <testcase name="testGetOutputDirectoryForCSharp(Path)" classname="com.vibecoding.wizard.tests.OutputDirectoryResolverTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

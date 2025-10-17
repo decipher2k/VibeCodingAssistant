@@ -1,0 +1,21 @@
+{
+  "schemaVersion" : "1.0",
+  "form" : {
+    "id" : "6da0abe5-168a-4838-a05c-f84db49c4655",
+    "name" : "MainForm",
+    "width" : 800.0,
+    "height" : 600.0,
+    "background" : "#F0F0F0"
+  },
+  "elements" : [ {
+    "id" : "dee430d3-9ddf-4032-bb14-49ce772ead5a",
+    "type" : "Button",
+    "props" : {
+      "width" : 144,
+      "x" : 195,
+      "y" : 78,
+      "text" : "Button",
+      "height" : 87
+    }
+  } ]
+}

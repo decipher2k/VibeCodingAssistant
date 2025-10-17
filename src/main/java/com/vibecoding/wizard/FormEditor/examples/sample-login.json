@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0",
+  "form": {
+    "id": "form-login",
+    "name": "LoginForm",
+    "width": 640,
+    "height": 480,
+    "background": "#FFFFFF"
+  },
+  "elements": [
+    {
+      "id": "label-title",
+      "type": "Label",
+      "props": {
+        "text": "Welcome",
+        "fontFamily": "System",
+        "fontSize": 26,
+        "foreground": "#222222",
+        "background": "transparent",
+        "x": 240,
+        "y": 40,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "id": "label-username",
+      "type": "Label",
+      "props": {
+        "text": "Username",
+        "x": 160,
+        "y": 120,
+        "width": 120,
+        "height": 24
+      }
+    },
+    {
+      "id": "input-username",
+      "type": "TextField",
+      "props": {
+        "text": "",
+        "foreground": "#000000",
+        "background": "#FFFFFF",
+        "x": 160,
+        "y": 150,
+        "width": 320,
+        "height": 28
+      }
+    },
+    {
+      "id": "label-password",
+      "type": "Label",
+      "props": {
+        "text": "Password",
+        "x": 160,
+        "y": 200,
+        "width": 120,
+        "height": 24
+      }
+    },
+    {
+      "id": "input-password",
+      "type": "TextField",
+      "props": {
+        "text": "",
+        "foreground": "#000000",
+        "background": "#FFFFFF",
+        "x": 160,
+        "y": 230,
+        "width": 320,
+        "height": 28
+      }
+    },
+    {
+      "id": "btn-login",
+      "type": "Button",
+      "props": {
+        "text": "Log in",
+        "x": 160,
+        "y": 280,
+        "width": 140,
+        "height": 32
+      }
+    },
+    {
+      "id": "chk-remember",
+      "type": "CheckBox",
+      "props": {
+        "text": "Remember me",
+        "selected": true,
+        "x": 320,
+        "y": 284,
+        "width": 140,
+        "height": 24
+      }
+    }
+  ]
+}

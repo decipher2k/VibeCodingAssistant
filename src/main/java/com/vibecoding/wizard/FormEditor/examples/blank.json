@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0",
+  "form": {
+    "id": "form-blank",
+    "name": "BlankForm",
+    "width": 800,
+    "height": 600,
+    "background": "#F0F0F0"
+  },
+  "elements": []
+}
